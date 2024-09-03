@@ -27,7 +27,7 @@ This  project was made using Google Colab Notebook , follow these steps for a su
   3. Connect to resources
   4. Open Kaggle and generate a new API token , a json file will be downloaded.
   5. Run the code and upload the json file.
-  6. Congrats for a successful build.... 👍
+  6. Congrats to successful run.... 👍
 ```
 
 
